@@ -1,1 +1,3 @@
-# bahasa-jepang
+# nihonggo_apk
+
+A new Flutter project.
